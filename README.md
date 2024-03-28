@@ -12,3 +12,4 @@ cd ABOAZABAlRAQQAWI
 python 'Termux Basics 🇸🇾.py'
 
 اداة صيد فيسبوك الأداة الثانيه وصف الأداة صيد من ملف أيديات
+git clone https://github.com/ABOAZABAlRAQQAWI/-/blob/main/README.md
